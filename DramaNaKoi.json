@@ -63,7 +63,7 @@
     },
     "9": {
       "title": "...Should We Go for One More?",
-      "volume": "1",
+      "volume": "2",
       "last_updated": "1747647072",
       "groups": {
         "Dramatic Scans Start From Basics": "/proxy/api/imgchest/chapter/agyvqooqb48"
@@ -71,10 +71,34 @@
     },
     "10": {
       "title": "Let’s Take a Picture Together",
-      "volume": "1",
+      "volume": "2",
       "last_updated": "1747647245",
       "groups": {
         "Dramatic Scans Start From Basics": "/proxy/api/imgchest/chapter/5xy2a668z7l"
+      }
+    },
+    "11": {
+      "title": "Let's Go Shopping!",
+      "volume": "2",
+      "last_updated": "1747647429",
+      "groups": {
+        "Dramatic Scans Start From Basics": "/proxy/api/imgchest/chapter/qe4gjbb5q4j"
+      }
+    },
+    "12": {
+      "title": "Every Rose Has Its Thorn",
+      "volume": "2",
+      "last_updated": "1747647465",
+      "groups": {
+        "Dramatic Scans Start From Basics": "/proxy/api/imgchest/chapter/agyvqoo9b48"
+      }
+    },
+    "13": {
+      "title": "It’s Because I Fell in Love",
+      "volume": "2",
+      "last_updated": "1747647560",
+      "groups": {
+        "Dramatic Scans Start From Basics": "/proxy/api/imgchest/chapter/wl7lgbboxyx"
       }
     }
   }
