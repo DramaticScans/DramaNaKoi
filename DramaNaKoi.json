@@ -279,7 +279,7 @@
     },
     "36": {
       "title": "Yet Another Resident",
-      "volume": "",
+      "volume": "5",
       "last_updated": "1748621551",
       "groups": {
         "Dramatic Scans Start From Basics": "/proxy/api/imgchest/chapter/md7oqz9z94p"
@@ -287,7 +287,7 @@
     },
     "37": {
       "title": "Just Like the Final Boss of a Video Game",
-      "volume": "",
+      "volume": "5",
       "last_updated": "1749744237",
       "groups": {
         "Dramatic Scans Start From Basics": "/proxy/api/imgchest/chapter/md7oqxbnl4p"
@@ -295,7 +295,7 @@
     },
     "38": {
       "title": "Let's Tip Her Off!",
-      "volume": "",
+      "volume": "5",
       "last_updated": "1750607818",
       "groups": {
         "Dramatic Scans Start From Basics": "/proxy/api/imgchest/chapter/agyv99dzj78"
@@ -303,7 +303,7 @@
     },
     "39": {
       "title": "Three-Way Date",
-      "volume": "",
+      "volume": "5",
       "last_updated": "1751298279",
       "groups": {
         "Dramatic Scans Start From Basics": "/proxy/api/imgchest/chapter/dl7pd5vp87o"
@@ -311,10 +311,18 @@
     },
     "40": {
       "title": "Secret Worries",
-      "volume": "",
+      "volume": "5",
       "last_updated": "1752441855",
       "groups": {
         "Dramatic Scans Start From Basics": "/proxy/api/imgchest/chapter/qb4z823x54j"
+      }
+    },
+    "41": {
+      "title": "I Don't Want to Hurt Anyone",
+      "volume": "5",
+      "last_updated": "1753363380",
+      "groups": {
+        "Dramatic Scans Start From Basics": "/proxy/api/imgchest/chapter/qb4z8xmv34j"
       }
     }
   }
